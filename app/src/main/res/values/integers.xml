@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 Guillaume Lesniak
+
+     This program is free software; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License
+     as published by the Free Software Foundation; either version 2
+     of the License, or (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program; if not, write to the Free Software
+     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+     MA  02110-1301, USA.
+-->
+<resources>
+    <!-- Default max width of a widget, as number of options -->
+    <integer name="widget_default_max_width">3</integer>
+
+    <!-- Size of a widget option button (square) -->
+    <dimen name="widget_option_button_size">64dp</dimen>
+
+    <!-- Padding between each icon within a widget -->
+    <dimen name="widget_option_button_padding">4dp</dimen>
+
+    <!-- Padding of the widget toggle buttons -->
+    <dimen name="widget_toggle_button_padding">8dp</dimen>
+
+    <!-- Default font size of the WidgetOptionLabel -->
+    <integer name="widget_option_label_font_size">12</integer>
+
+    <!-- Small font size of the WidgetOptionLabel -->
+    <integer name="widget_option_label_font_size_small">10</integer>
+
+    <!-- Padding between each open widget -->
+    <dimen name="widget_spacing">8dp</dimen>
+
+    <!-- Padding within the widget container window -->
+    <dimen name="widget_container_padding">1dp</dimen>
+
+    <!-- Edge padding of the ring buttons -->
+    <dimen name="ringpad_edge_spacing">32dp</dimen>
+
+    <!-- Radius of the ringpad -->
+    <dimen name="ringpad_radius">140dp</dimen>
+
+    <!-- Size of the review drawer thumbnails -->
+    <dimen name="review_drawer_thumb_size">96dp</dimen>
+
+    <dimen name="timer_circle_diameter">100dip</dimen>
+    <dimen name="timer_circle_width">125dip</dimen>
+
+    <dimen name="circletimer_diamond_size">6dip</dimen>
+    <dimen name="circletimer_circle_size">4dip</dimen>
+    <dimen name="circletimer_marker_size">16dip</dimen>
+</resources>
